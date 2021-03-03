@@ -1,0 +1,5 @@
+secrets.py
+select2.html
+geckodriver.log
+**/*.csv
+__pycache__/*
